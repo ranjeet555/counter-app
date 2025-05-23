@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div style={{ textAlign: "center", padding: "50px" }}>
-      <h1>Counter App</h1>
+      <h1 style={{color:'green'}}>My awsome Counter App</h1>
       <h2>{count}</h2>
       <button onClick={() => setCount(count + 1)}>Increment</button>
       <button onClick={() => setCount(count - 1)}>Decrement</button>
