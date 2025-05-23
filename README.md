@@ -107,3 +107,9 @@ git add .
 git commit -m "Updated UI"
 git push origin main
 Your app will automatically deploy to Netlify! 🚀🎉
+
+
+to access tocken https://app.netlify.com/user/applications#personal-access-tokens
+on netlify to generate access token
+
+and site id is same as project id
